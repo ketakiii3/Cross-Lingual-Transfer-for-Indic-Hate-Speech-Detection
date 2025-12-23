@@ -2,7 +2,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/transformers/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A comparative study of **IndicBERT-v2** and **MuRIL** for Hindi hate speech detection and zero-shot/few-shot cross-lingual transfer to Marathi, using **Low-Rank Adaptation (LoRA)** for parameter-efficient fine-tuning.
 
