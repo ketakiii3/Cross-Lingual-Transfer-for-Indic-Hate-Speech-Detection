@@ -22,7 +22,7 @@ We demonstrate that **LoRA achieves state-of-the-art performance (F1 ≈ 0.80) w
 | **LoRA** | **~2.6M (0.95%)** | **0.785** | **0.784** |
 | Full Fine-tuning (SFT) | ~110M (100%) | 0.391 | 0.391 |
 
-![Results](images/results.png)
+![Results](results.png)
 
 **Top row:** Macro-F1 vs Marathi examples for IndicBERT (left) and MuRIL (right). LoRA (blue/orange) stays high around 0.8, while SFT (dark lines) flatlines at ~0.4 — classic optimization collapse.
 
